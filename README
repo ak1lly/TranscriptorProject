@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------
+Program Author: Shakil Muhyiddin 
+
+Technologies: Jupyter Notebook, Python Libraries, API's
+
+Purpose: The video audio transcription program is a software tool designed to automatically convert 
+spoken words in a video into written text. Using advanced speech recognition algorithms, these programs 
+analyze audio content, accurately transcribing dialogue, narration, and other audible elements. The 
+resulting text can be crucial for various purposes, such as creating subtitles, improving accessibility 
+for individuals with hearing impairments, and facilitating content searchability. This technology streamlines 
+the process of converting spoken information from videos into a written format, saving time and effort for 
+content creators and making multimedia content more accessible and versatile. 
+
+Libraries and APIs:
+<ffmpeg library>
+    allows for video to audio conversions
+<AssemblyAI API>
+    processes audio into a transcription
+
+Source Files:
+<Video Audio Transcriptor.ipynb>
+
+Launching instructions: each stage of the program can be easliy controlled by the user, even offering
+different options when presenting the outputed transcription
+----------------------------------------------------------------------------------------------------
